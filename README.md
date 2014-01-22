@@ -1,4 +1,4 @@
 Dr. F Colors
 ============
 
-Better default colors.
+Better default color palette.
