@@ -1,14 +1,11 @@
 {
-  "name": "drf.colors",
+  "name": "clrs",
   "version": "0.1.0",
   "description": "better default colors.",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
-    "url": "git://github.com/doctorfrankenstein/drf.colors.git"
+    "url": "git://github.com/jugoncalves/clrs.git"
   },
   "keywords": [
     "stylus",
@@ -18,9 +15,9 @@
   "author": "Jú Gonçalves <github@jugoncalv.es>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/doctorfrankenstein/drf.colors/issues"
+    "url": "https://github.com/jugoncalves/clrs/issues"
   },
-  "homepage": "https://github.com/doctorfrankenstein/drf.colors",
+  "homepage": "https://github.com/jugoncalves/clrs",
   "dependencies": {
     "stylus": "~0.42.1"
   }
