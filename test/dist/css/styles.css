@@ -1,14 +1,28 @@
+body {
+  width: 60%;
+  margin: 50px auto 0;
+}
 ul {
-  border: 1px #000 solid;
   list-style: none;
-  margin: 0;
+  margin: 0 0 10px;
   padding: 0;
 }
 ul li {
   display: inline-block;
+  box-sizing: border-box;
   margin: 0;
-  width: 50%;
+  margin-right: 5px;
+  width: calc(50% - 5px);
   height: 50px;
+  color: #fff;
+  text-align: right;
+  font-family: monospace;
+  display: inline-block;
+  padding: 20px 20px 0;
+  text-shadow: 1px 1px 1px #000;
+}
+ul.white li {
+  color: #c0c0c0;
 }
 .navy li:first-child {
   background-color: #000080;
