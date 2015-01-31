@@ -1,7 +1,7 @@
 clrs
 ====
 
-Better default color palette for Stylus.
+Better default color palette for CSS.
 
 Palette
 -------
@@ -67,6 +67,13 @@ Usage is pretty straightfoward: load it into you project and use it like usual d
   background-color white
 
 ```
+Roadmap
+------
+
+- [ ] Add LESS version
+- [ ] Add SASS version
+- [ ] Add prefix to Stylus version
+
 License
 -------
 
