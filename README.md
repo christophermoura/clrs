@@ -72,7 +72,7 @@ Roadmap
 
 - [ ] Add LESS version
 - [ ] Add SASS version
-- [ ] Add prefix to Stylus version
+- [x] Add prefix to Stylus vars
 
 License
 -------
