@@ -70,9 +70,10 @@ Usage is pretty straightfoward: load it into you project and use it like usual d
 Roadmap
 ------
 
-- [ ] Add LESS version
-- [ ] Add SASS version
+- [x] Add LESS version
+- [x] Add SASS version
 - [x] Add prefix to Stylus vars
+- [ ] Improve README
 
 License
 -------
